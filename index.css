@@ -22,7 +22,7 @@ input{
     width: 280px;
     border: 2px solid black;
     padding: 25px;
-    background-color: rgba(191, 255, 0, 0.581);
+    background-color: rgb(0, 255, 247);
 }
 button:hover{
     background-color: wheat;
